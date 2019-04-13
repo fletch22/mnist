@@ -1,0 +1,2 @@
+# python -m pytest -s -W ignore C:\Users\Chris\workspaces\mnist\tests\app\time_series\TestNbaTeamGameLearning.py::TestNbaTeamGameLearning::test_learn
+python -m pytest -s -W ignore C:\Users\Chris\workspaces\mnist\tests\app\time_series\TestNbaTeamGameLearning.py::TestNbaTeamGameLearning::test_prepped
