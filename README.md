@@ -2,7 +2,7 @@
 
 Most of the code here is focused on predicting pro men's basketball game wins. 
 
-I learned a ton about data acquistition, data pipeling, cleaning and machine learning.
+I learned a ton about data acquistition, data pipeling, cleaning and machine learning. And to answer your question, I was able to predict most wins, but I can't beat the spread.
 
 ## Notes
 
