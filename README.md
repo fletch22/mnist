@@ -1,6 +1,8 @@
-# Most of the code here is actually focussed on predicting pro men's basketball game wins.
+# Machine Learning Prediction Project
 
-I learned a ton about data cleaning and machine learning.
+Most of the code here is focused on predicting pro men's basketball game wins. 
+
+I learned a ton about data acquistition, data pipeling, cleaning and machine learning.
 
 ## Notes
 
