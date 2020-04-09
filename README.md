@@ -1,4 +1,10 @@
-Basketball Factors (other)
+# Most of the code here is actually focussed on predicting pro men's basketball game wins.
+
+I learned a ton about data cleaning and machine learning.
+
+## Notes
+
+Basketball Win Factors (other)
 
 double digit spread
 fatigue level (4 games in 6 nights)
