@@ -13,5 +13,5 @@ xgboost==0.81
 torchvision==0.2.1
 skorch==0.5.0
 numba==0.42.0
-opencv-python==4.0.0.21
+opencv-python==4.2.0.32
 lightgbm==2.2.3
